@@ -29,8 +29,8 @@
     function english() {
         return {
             skills_habilidades: 'Skills',
-            skills_front:'Front-end Developing',
-            skills_back:'Back-end Developing',
+            skills_front:'Front-end Developer',
+            skills_back:'Back-end Developer',
             skills_servidor:'Web Servers',
             skills_db:'Data Base',
             skills_os:'Operative System'
