@@ -22,7 +22,8 @@
             skills_back:'Desarrollando Back-end',
             skills_servidor:'Servidores Web',
             skills_db:'Bases de datos',
-            skills_os:'Sistemas Operativos'
+            skills_os:'Sistemas Operativos',
+            skils_otros:'Otras Habilidades'
         }
     }
 
@@ -33,7 +34,8 @@
             skills_back:'Back-end Developer',
             skills_servidor:'Web Servers',
             skills_db:'Data Base',
-            skills_os:'Operative System'
+            skills_os:'Operative System',
+            skils_otros:'Other Skills'
         }
     }
 })();
