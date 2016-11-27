@@ -6317,8 +6317,8 @@ div.loading img {
     font-weight: 300; }
 
 .header-two, .header-three {
-  padding-top: 30px;
-  background-color: #010d10;
+  /*padding-top: 30px;*/
+ /* background-color: #010d10;*/
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover; }
