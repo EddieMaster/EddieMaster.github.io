@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5402a138-65b0-4c98-8d2f-3344adf2869d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/commun/header.html" afterPath="$PROJECT_DIR$/views/commun/header.html" />
     </list>
     <ignored path="base_front.iws" />
@@ -400,7 +399,7 @@
       <workItem from="1479065132583" duration="6541000" />
       <workItem from="1479264559613" duration="1102000" />
       <workItem from="1479574979456" duration="8565000" />
-      <workItem from="1480224436793" duration="330000" />
+      <workItem from="1480224436793" duration="489000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit cv">
       <created>1478991670161</created>
@@ -458,11 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1479584068452</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Ajuste del diseño.">
+      <created>1480224797650</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1480224797650</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67827000" />
+    <option name="totallyTimeSpent" value="67986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -523,7 +529,8 @@
     <MESSAGE value="add Video Background" />
     <MESSAGE value="video resource" />
     <MESSAGE value=":)" />
-    <option name="LAST_COMMIT_MESSAGE" value=":)" />
+    <MESSAGE value="Ajuste del diseño." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajuste del diseño." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
