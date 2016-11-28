@@ -7078,7 +7078,9 @@ footer {
     width: 90%;
     max-width: 960px; }
     .rex-portfolio-showcase .rex-modal .rex-content {
-      position: relative; }
+      position: relative;
+    margin-top: -57%;
+    }
       .rex-portfolio-showcase .rex-modal .rex-content img {
         padding-left: 40px; }
     .rex-portfolio-showcase .rex-modal button.rex-close-modal {
