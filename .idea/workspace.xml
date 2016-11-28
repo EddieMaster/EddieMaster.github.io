@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5402a138-65b0-4c98-8d2f-3344adf2869d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jobs/config/jobs.lang.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/work-img1.jpg" afterPath="$PROJECT_DIR$/img/work/work-img1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/work-img2.jpg" afterPath="$PROJECT_DIR$/img/work/work-img2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/work-img3.jpg" afterPath="$PROJECT_DIR$/img/work/work-img3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/work-img4.jpg" afterPath="$PROJECT_DIR$/img/work/work-img4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/work-img5.jpg" afterPath="$PROJECT_DIR$/img/work/work-img5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/work-img6.jpg" afterPath="$PROJECT_DIR$/img/work/work-img6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/work-img7.jpg" afterPath="$PROJECT_DIR$/img/work/work-img7.jpg" />
+    <list default="true" id="5402a138-65b0-4c98-8d2f-3344adf2869d" name="Default" comment="Ajuste del diseño. y traduccion">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jobs/template/jobs.template.html" afterPath="$PROJECT_DIR$/js/jobs/template/jobs.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/skills/config/skills.lang.js" afterPath="$PROJECT_DIR$/js/skills/config/skills.lang.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/work/config/work.lang.js" afterPath="$PROJECT_DIR$/js/work/config/work.lang.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/work/template/work.template.html" afterPath="$PROJECT_DIR$/js/work/template/work.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/script.js" afterPath="$PROJECT_DIR$/lib/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/commun/header.html" afterPath="$PROJECT_DIR$/views/commun/header.html" />
     </list>
     <ignored path="base_front.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,13 +44,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jobs.lang.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jobs.lang.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/jobs/config/jobs.lang.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="364">
               <caret line="25" column="336" selection-start-line="25" selection-start-column="336" selection-end-line="25" selection-end-column="336" />
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/commun/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="53" column="82" selection-start-line="53" selection-start-column="82" selection-end-line="53" selection-end-column="82" />
+              <folding>
+                <element signature="n#style#0;n#video#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -184,7 +182,6 @@
         <option value="$PROJECT_DIR$/js/education/config/lang.js" />
         <option value="$PROJECT_DIR$/js/education/config/education.lang.js" />
         <option value="$PROJECT_DIR$/views/commun/footer.html" />
-        <option value="$PROJECT_DIR$/views/commun/header.html" />
         <option value="$PROJECT_DIR$/js/skills/template/skills.template.html" />
         <option value="$PROJECT_DIR$/js/education/template/education.template.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
@@ -195,6 +192,7 @@
         <option value="$PROJECT_DIR$/lib/script.js" />
         <option value="$PROJECT_DIR$/js/jobs/template/jobs.template.html" />
         <option value="$PROJECT_DIR$/js/jobs/config/jobs.lang.js" />
+        <option value="$PROJECT_DIR$/views/commun/header.html" />
       </list>
     </option>
   </component>
@@ -265,7 +263,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EddieMaster.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EddieMaster.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commun" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -385,7 +401,7 @@
       <workItem from="1479264559613" duration="1102000" />
       <workItem from="1479574979456" duration="8565000" />
       <workItem from="1480224436793" duration="5821000" />
-      <workItem from="1480270743155" duration="6655000" />
+      <workItem from="1480270743155" duration="7885000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit cv">
       <created>1478991670161</created>
@@ -471,11 +487,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480234652223</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Ajuste del diseño. y traduccion">
+      <created>1480303690778</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1480303690779</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79973000" />
+    <option name="totallyTimeSpent" value="81203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="726" extended-state="0" />
@@ -749,13 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/commun/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="45" column="70" selection-start-line="45" selection-start-column="70" selection-end-line="45" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/skills/directive/skills.directive.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -883,6 +899,16 @@
           <caret line="25" column="336" selection-start-line="25" selection-start-column="336" selection-end-line="25" selection-end-column="336" />
           <folding>
             <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/commun/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="53" column="82" selection-start-line="53" selection-start-column="82" selection-end-line="53" selection-end-column="82" />
+          <folding>
+            <element signature="n#style#0;n#video#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
