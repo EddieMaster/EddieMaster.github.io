@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5402a138-65b0-4c98-8d2f-3344adf2869d" name="Default" comment="Ajuste del diseño. y traduccion">
+    <list default="true" id="5402a138-65b0-4c98-8d2f-3344adf2869d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/about/config/about.lang.js" afterPath="$PROJECT_DIR$/js/about/config/about.lang.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/about/template/about.html" afterPath="$PROJECT_DIR$/js/about/template/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jobs/config/jobs.lang.js" afterPath="$PROJECT_DIR$/js/jobs/config/jobs.lang.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jobs/template/jobs.template.html" afterPath="$PROJECT_DIR$/js/jobs/template/jobs.template.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/commun/header.html" afterPath="$PROJECT_DIR$/views/commun/header.html" />
     </list>
     <ignored path="base_front.iws" />
@@ -29,11 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="jobs.template.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jobs.template.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/jobs/template/jobs.template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="103" column="51" selection-start-line="103" selection-start-column="51" selection-end-line="103" selection-end-column="51" />
+            <state relative-caret-position="882">
+              <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work.template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/work/template/work.template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2478">
+              <caret line="118" column="72" selection-start-line="118" selection-start-column="72" selection-end-line="118" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -42,11 +47,91 @@
       <file leaf-file-name="jobs.lang.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/jobs/config/jobs.lang.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="807">
-              <caret line="52" column="22" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="22" />
+            <state relative-caret-position="987">
+              <caret line="49" column="94" selection-start-line="49" selection-start-column="94" selection-end-line="49" selection-end-column="94" />
+              <folding>
+                <element signature="e#0#48#0" expanded="false" />
+                <marker date="1480378584577" expanded="true" signature="434:1716" ph="{...}" />
+                <marker date="1480378584577" expanded="true" signature="451:1716" ph="{&quot;job&quot;: 'Proyectos Realizados'...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/commun/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="50" column="80" selection-start-line="50" selection-start-column="80" selection-end-line="50" selection-end-column="80" />
+              <folding>
+                <element signature="n#style#0;n#video#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skills.lang.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/skills/config/skills.lang.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work.lang.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/work/config/work.lang.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="23" column="194" selection-start-line="23" selection-start-column="194" selection-end-line="23" selection-end-column="194" />
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/app/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jobs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jobs/app/jobs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1281">
+              <caret line="62" column="20" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148701">
+              <caret line="7081" column="19" selection-start-line="7081" selection-start-column="19" selection-end-line="7081" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -90,10 +175,13 @@
         <option value="$PROJECT_DIR$/css/vendor/owl.carousel.css" />
         <option value="$PROJECT_DIR$/js/references/template/references.template.html" />
         <option value="$PROJECT_DIR$/views/home/content.html" />
+        <option value="$PROJECT_DIR$/js/app/app.js" />
         <option value="$PROJECT_DIR$/js/app/leng/leng.js" />
         <option value="$PROJECT_DIR$/js/about/app/about.js" />
         <option value="$PROJECT_DIR$/js/app/lang/lang.js" />
         <option value="$PROJECT_DIR$/js/skills/config/skills.config.js" />
+        <option value="$PROJECT_DIR$/js/about/config/about.lang.js" />
+        <option value="$PROJECT_DIR$/js/about/template/about.html" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/js/app/controllers/main.js" />
         <option value="$PROJECT_DIR$/js/app/config/route.js" />
@@ -103,17 +191,14 @@
         <option value="$PROJECT_DIR$/js/skills/template/skills.template.html" />
         <option value="$PROJECT_DIR$/js/education/template/education.template.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/skills/config/skills.lang.js" />
         <option value="$PROJECT_DIR$/js/work/config/work.lang.js" />
         <option value="$PROJECT_DIR$/js/work/template/work.template.html" />
         <option value="$PROJECT_DIR$/lib/script.js" />
-        <option value="$PROJECT_DIR$/js/about/template/about.html" />
-        <option value="$PROJECT_DIR$/js/about/config/about.lang.js" />
-        <option value="$PROJECT_DIR$/js/app/app.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/views/commun/header.html" />
-        <option value="$PROJECT_DIR$/js/jobs/config/jobs.lang.js" />
         <option value="$PROJECT_DIR$/js/jobs/template/jobs.template.html" />
+        <option value="$PROJECT_DIR$/js/jobs/config/jobs.lang.js" />
+        <option value="$PROJECT_DIR$/views/commun/header.html" />
       </list>
     </option>
   </component>
@@ -124,10 +209,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1928" />
-    <option name="height" value="1044" />
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -154,8 +239,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -174,8 +257,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EddieMaster.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EddieMaster.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EddieMaster.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EddieMaster.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,6 +304,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\EddieMasterCv\bower_components\angular-ui-router" />
+      <recent name="C:\xampp\htdocs\base_front\lib\jquery" />
+      <recent name="C:\xampp\htdocs\base_front\lib\angular" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\EddieMasterCv" />
       <recent name="C:\xampp\htdocs\EddieMasterCv\img" />
@@ -194,11 +316,122 @@
       <recent name="C:\xampp\htdocs\EddieMasterCv\lib" />
       <recent name="C:\xampp\htdocs\base_front\lib" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\EddieMasterCv\bower_components\angular-ui-router" />
-      <recent name="C:\xampp\htdocs\base_front\lib\jquery" />
-      <recent name="C:\xampp\htdocs\base_front\lib\angular" />
-    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/about/config/about.lang.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/about/template/about.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/jobs/config/jobs.lang.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/jobs/template/jobs.template.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/views/commun/header.html</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -276,8 +509,8 @@
       <workItem from="1479264559613" duration="1102000" />
       <workItem from="1479574979456" duration="8565000" />
       <workItem from="1480224436793" duration="5821000" />
-      <workItem from="1480270743155" duration="7885000" />
-      <workItem from="1480368382011" duration="5254000" />
+      <workItem from="1480270743155" duration="7929000" />
+      <workItem from="1480378534079" duration="84000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit cv">
       <created>1478991670161</created>
@@ -370,20 +603,27 @@
       <option name="project" value="LOCAL" />
       <updated>1480303690779</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Ajuste del diseño. y traduccion">
+      <created>1480310248679</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1480310248679</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86457000" />
+    <option name="totallyTimeSpent" value="81331000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1044" extended-state="0" />
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18378094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18401207" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789558" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27732465" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -572,6 +812,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/about/template/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js" />
     <entry file="file://$PROJECT_DIR$/js/about/app/about.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -612,6 +859,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="38" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/about/config/about.lang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -671,8 +925,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141620">
+        <state relative-caret-position="148701">
           <caret line="7081" column="19" selection-start-line="7081" selection-start-column="19" selection-end-line="7081" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="62" column="20" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -684,11 +946,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/jobs/app/jobs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/skills/config/skills.lang.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="441">
           <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/work/config/work.lang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="23" column="194" selection-start-line="23" selection-start-column="194" selection-end-line="23" selection-end-column="194" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -699,90 +987,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/jobs/template/jobs.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/work/template/work.template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="2478">
           <caret line="118" column="72" selection-start-line="118" selection-start-column="72" selection-end-line="118" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/about/config/about.lang.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jobs/app/jobs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/work/config/work.lang.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="23" column="194" selection-start-line="23" selection-start-column="194" selection-end-line="23" selection-end-column="194" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/about/template/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="85" column="56" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/commun/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#video#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jobs/config/jobs.lang.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="807">
-          <caret line="52" column="22" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="22" />
+        <state relative-caret-position="987">
+          <caret line="49" column="94" selection-start-line="49" selection-start-column="94" selection-end-line="49" selection-end-column="94" />
           <folding>
             <element signature="e#0#48#0" expanded="false" />
+            <marker date="1480378584577" expanded="true" signature="434:1716" ph="{...}" />
+            <marker date="1480378584577" expanded="true" signature="451:1716" ph="{&quot;job&quot;: 'Proyectos Realizados'...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jobs/template/jobs.template.html">
+    <entry file="file://$PROJECT_DIR$/views/commun/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="103" column="51" selection-start-line="103" selection-start-column="51" selection-end-line="103" selection-end-column="51" />
-          <folding />
+        <state relative-caret-position="216">
+          <caret line="50" column="80" selection-start-line="50" selection-start-column="80" selection-end-line="50" selection-end-column="80" />
+          <folding>
+            <element signature="n#style#0;n#video#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
